@@ -1,0 +1,1 @@
+print("MI primer tetris xdxd")
