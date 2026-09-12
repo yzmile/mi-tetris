@@ -1,2 +1,2 @@
 # mi-tetris
-Mi propio tetris en python y pygame
+Mi propio tetris en python y pygame omaigot
