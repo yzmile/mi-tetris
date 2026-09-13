@@ -1,0 +1,5 @@
+=== TETRIS ===
+
+1. Jugar
+2. Instrucciones
+3. Salir
